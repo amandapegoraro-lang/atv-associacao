@@ -1,0 +1,14 @@
+C:\Users\52592352821\OneDrive - SESISENAISP - Escolas\Workspace#\PBE\associacao-class\obj\Debug\net9.0\associacao-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52592352821\OneDrive - SESISENAISP - Escolas\Workspace#\PBE\associacao-class\obj\Debug\net9.0\associacao-class.AssemblyInfoInputs.cache
+C:\Users\52592352821\OneDrive - SESISENAISP - Escolas\Workspace#\PBE\associacao-class\obj\Debug\net9.0\associacao-class.AssemblyInfo.cs
+C:\Users\52592352821\OneDrive - SESISENAISP - Escolas\Workspace#\PBE\associacao-class\obj\Debug\net9.0\associacao-class.csproj.CoreCompileInputs.cache
+C:\Users\52592352821\OneDrive - SESISENAISP - Escolas\Workspace#\PBE\associacao-class\bin\Debug\net9.0\associacao-class.exe
+C:\Users\52592352821\OneDrive - SESISENAISP - Escolas\Workspace#\PBE\associacao-class\bin\Debug\net9.0\associacao-class.deps.json
+C:\Users\52592352821\OneDrive - SESISENAISP - Escolas\Workspace#\PBE\associacao-class\bin\Debug\net9.0\associacao-class.runtimeconfig.json
+C:\Users\52592352821\OneDrive - SESISENAISP - Escolas\Workspace#\PBE\associacao-class\bin\Debug\net9.0\associacao-class.dll
+C:\Users\52592352821\OneDrive - SESISENAISP - Escolas\Workspace#\PBE\associacao-class\bin\Debug\net9.0\associacao-class.pdb
+C:\Users\52592352821\OneDrive - SESISENAISP - Escolas\Workspace#\PBE\associacao-class\obj\Debug\net9.0\associacao-class.dll
+C:\Users\52592352821\OneDrive - SESISENAISP - Escolas\Workspace#\PBE\associacao-class\obj\Debug\net9.0\refint\associacao-class.dll
+C:\Users\52592352821\OneDrive - SESISENAISP - Escolas\Workspace#\PBE\associacao-class\obj\Debug\net9.0\associacao-class.pdb
+C:\Users\52592352821\OneDrive - SESISENAISP - Escolas\Workspace#\PBE\associacao-class\obj\Debug\net9.0\associacao-class.genruntimeconfig.cache
+C:\Users\52592352821\OneDrive - SESISENAISP - Escolas\Workspace#\PBE\associacao-class\obj\Debug\net9.0\ref\associacao-class.dll
